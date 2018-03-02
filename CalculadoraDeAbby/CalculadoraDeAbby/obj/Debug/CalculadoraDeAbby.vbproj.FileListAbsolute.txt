@@ -1,0 +1,12 @@
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\bin\Debug\CalculadoraDeAbby.exe.config
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\bin\Debug\CalculadoraDeAbby.exe
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\bin\Debug\CalculadoraDeAbby.pdb
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\bin\Debug\CalculadoraDeAbby.xml
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.vbprojResolveAssemblyReference.cache
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.Form1.resources
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.Resources.resources
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.vbproj.GenerateResource.Cache
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.vbproj.CoreCompileInputs.cache
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.exe
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.xml
+c:\users\ip02lt\source\repos\CalculadoraDeAbby\CalculadoraDeAbby\obj\Debug\CalculadoraDeAbby.pdb
